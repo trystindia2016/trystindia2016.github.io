@@ -6,6 +6,16 @@ body {
     margin:0px;
 }
 
+.red{
+    color:red;
+}
+.navyblue{
+    color:navy;
+}
+.white{
+    color:white;
+}
+
 h2 {
     color:brown;
     text-shadow:5px 2px 3px grey;
